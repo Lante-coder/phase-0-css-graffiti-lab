@@ -1,1 +1,23 @@
+#wall .tag-1 {
+  display: none;
+}
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    border: none;
+    display: block;
+}
 /* write your override styles here */
